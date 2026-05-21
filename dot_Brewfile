@@ -15,7 +15,7 @@ cask "ghostty"
 cask "font-jetbrains-mono"
 cask "font-jetbrains-mono-nerd-font"
 
-### shell utils
+### shell tools
 # nav
 brew "yazi"
 brew "zoxide"
@@ -28,9 +28,13 @@ brew "rg"
 brew "jq"
 brew "yq"
 
-### shell style
+### shell styling
 # prompt
 brew "starship"
+
+### development
+# tooling
+brew "mise"
 
 ### apps
 cask "spotify"
