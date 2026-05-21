@@ -1,0 +1,36 @@
+### core / bootstrap
+brew "fish"
+brew "git"
+brew "chezmoi"
+brew "neovim"
+cask "1password"
+cask "1password-cli"
+
+### macos usability essentials
+cask "karabiner-elements"
+cask "linearmouse"
+
+### terminal emulator
+cask "ghostty"
+cask "font-jetbrains-mono"
+cask "font-jetbrains-mono-nerd-font"
+
+### shell utils
+# nav
+brew "yazi"
+brew "zoxide"
+brew "eza"
+# search
+brew "fzf"
+brew "fd"
+brew "rg"
+# manipulation
+brew "jq"
+brew "yq"
+
+### shell style
+# prompt
+brew "starship"
+
+### apps
+cask "spotify"
