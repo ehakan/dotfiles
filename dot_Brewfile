@@ -35,6 +35,7 @@ brew "starship"
 ### development
 # tooling
 brew "mise"
+brew "uv"
 
 ### apps
 cask "spotify"
