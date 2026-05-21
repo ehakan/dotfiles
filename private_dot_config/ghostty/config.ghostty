@@ -1,0 +1,10 @@
+font-family = JetBrains Mono
+font-family = JetBrainsMono Nerd Font Mono
+
+theme = light:Catppuccin Latte,dark:Catppuccin Mocha
+
+background-opacity = 0.95
+background-blur = true
+
+macos-titlebar-style = tabs
+
