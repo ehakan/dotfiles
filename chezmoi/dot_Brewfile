@@ -36,6 +36,7 @@ brew "starship"
 # tooling
 brew "mise"
 brew "uv"
+cask "orbstack"
 
 ### apps
 cask "spotify"
